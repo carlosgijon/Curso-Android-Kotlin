@@ -18,7 +18,7 @@ fun main(arg: Array<String>) {
     val num2 = 5
     val num3 = 2
 
-    val resultado: Int?  // sin imicializar
+    val resultado: Int?  // igual que un null en java
 
     resultado = num1 / (num2 * num3) - 1
 
