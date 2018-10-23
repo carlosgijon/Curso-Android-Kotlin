@@ -1,4 +1,4 @@
-package secciondos
+package secciontres
 
 /*
 * Crear un programa que pida la entrada de una cantidad

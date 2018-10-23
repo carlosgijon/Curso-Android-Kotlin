@@ -1,4 +1,4 @@
-package seccionuno
+package secciondos
 
 fun main(args: Array<String>) {
 
