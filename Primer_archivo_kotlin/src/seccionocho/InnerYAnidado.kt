@@ -15,7 +15,7 @@ class Externa {
 
 fun main(args: Array<String>) {
     var externa = Externa()
-    var anidada = Externa.Anidada()
+    var anidada = externa.Anidada()
 
     anidada.mostrar()
 }
