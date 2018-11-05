@@ -13,7 +13,7 @@ open class Human() {
     }
 }
 
-class Perr() : Human() {
+class Perr(): Human() {
     fun ladrido() {
         println("Guau, guau")
     }
